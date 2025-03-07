@@ -44,8 +44,6 @@ For customization, refer to the "Additional Responses" section in the source cod
 ## Contributing
 Contributions are welcome. To suggest improvements, report issues, or add new features, please create an issue or submit a pull request.
 
-Enjoy your chatbot experience!
-
 
 
 
